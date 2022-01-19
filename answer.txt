@@ -1,0 +1,149 @@
+ANSWERS
+
+Sorry about that. But here's a somewhat reasonable explanation for a completely unreasonable puzzle.
+
+You should have been given an image. 
+If you opened said image, you would have noticed it was a worksheet for children to practice handwriting.
+Incredible. Wow.
+Anyhow, if you opened said image in a text editor, you'd notice something at the bottom!
+
+This!
+
+BCACTF 
+
+(Because I feel like causing problems on purpose today)
+
+BUUVF BYIRZ LCHMM YRCYR NFRVJ BHYQE
+RNYYL YVXRV GVSLB HQVQG UBHTU LBHJB
+AGTRG NALUV AGFUR ERYVX RGUVA XVANQ
+VSSRE RAGQV ERPGV BAERN QVATG UVFJB
+AGURY CLBHY VXRNG NYYTB BQOLR NQVBF
+
+XXXXX??????????????
+
+??????????XXXXX
+
+?????????????XXX
+
+?????XXXXX?????
+
+XXXXX????
+
+XXXXX??????
+
+tinyurl.com/XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Have fun!
+
+
+
+Notice the statement in parenthesis.
+This is an indicator that what you are about to witness is complete nonsense, and I don't like people right now.
+
+There are letters above and below said statement. 
+Above, there are 6 letters.
+Below, there are 6 groups of letters.
+Belower, there are 6 lines with ?s and Xs.
+Belowest, you have a tinyurl link with a bunch of Xs, and a statement telling you to have fun.
+Feel free to ignore this statement, as it is asking the impossible of you.
+
+But back to the 6s. 
+666 is a number often associated with scary things and whatnot.
+That, however, is not pertinent to this problem.
+What is pertinent is the fact that each letter can be connected to a group of letters and a mysterious line.
+
+Take, the first set of what shall be henceforth be referred to as "pineapples"
+
+Here, we have 
+
+pin - B
+eap - 
+
+BUUVF 
+RNYYL 
+AGTRG 
+VSSRE 
+AGURY
+
+ples - XXXXX??????????????
+
+What do we do with this? 
+Well, when life gives you pineapples, make pineappleade!
+
+At the bottom, notice that the link contains a bunch of Xs.
+Perhaps if you knew what filled those Xs, you would know where to go next! WOW!
+
+How do we take the stuff from the first pineapples and make it into something useable.
+Well, the image is of letters. So why don't we ask the image?
+
+Hey image, how do you write the letter B, which is our pin?
+
+XXXXX
+X___X
+XXXXX
+X___X
+XXXXX
+
+Thanks image!
+That hardly looks like a B, but I'm tired and can't see the difference.
+And the image kindly tells you what order to create the B in! 
+Lets use what the image tells us to decode our eap!
+
+BUUVF 
+RNYYL 
+AGTRG 
+VSSRE 
+AGURY
+
+becomes
+
+BUUVF 
+R___L 
+AGTRG 
+V___E 
+AGURY
+
+which becomes
+
+BRAVAUUVFLGRTGEYRUG!
+
+Now comparing that to the ples..
+
+BRAVAUUVFLGRTGEYRUG
+XXXXX??????????????
+
+...you can see that your first 5 Xs are BRAVA!
+
+Now all you have to do is repeat this process 5 more times!
+How fun! 
+
+If you follow this pattern to exactly how I envisioned it in my head, you should get:
+
+VZRIYBYNRCLBHYV
+
+
+HCLGAEVMMBRVGGFU
+
+
+GRYCRYHEBNYYTBN
+
+
+RHUAONFVJ
+
+
+BLXUNHYQEVA
+
+for the next 5 letters!
+
+A was a bit weird, because letters don't go all tilted like that. 
+So just imagine A to be more like a square with two legs.
+
+And once you plug all of the eaps into the pless, you get
+
+BRAVALBHYVGFUYHEBNRHUAOBLXUN
+
+And putting that into the url, you get sent to an amazing google doc with the flag!
+
+Wasn't that fun!
+
+Again, any questions, comments, or concerns shall be directed towards the person directly to my left.
